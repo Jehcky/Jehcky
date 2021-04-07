@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jehcky
+- 👋 Hi, I’m @Jehcky :smiley:
 - 👀 I’m interested in many things :p
 - 🌱 I’m currently learning how to use docker
 - 💞️ I love my pets
