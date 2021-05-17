@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jehcky :zany_face:
 - 👀 I’m interested in many things :p
 - 🌱 I’m currently learning how to use docker
-- 💞️ I love my pets
+- 💞️ I love my family & pets
 - 📫 jehck.tnj@gmail.com ...
 
 <!---
