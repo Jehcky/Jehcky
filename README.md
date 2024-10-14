@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jehcky :zany_face:, I'm a software developer, eager to learn and share knowledge. 
 - 👀 I’m interested in Bioinformatics and Artificial Intelligence
-- 🌱 I’m currently studying Python, Docker, Kubernetes && REST APIs
+- 🌱 I’m currently studying Python (Advanced concepts && Design Patterns), Django, Docker, Kubernetes && REST APIs
 - 💞️ I love my family & pets
 
 <!---
