@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jehcky :zany_face:, I'm a Software Developer/IT Analyst eager to learn and share knowledge. 
+- 👋 Hi, I’m Jehcky :zany_face:, I'm a Software Developer/IT Analyst eager to learn and share knowledge. 
 - 👀 I’m interested in Bioinformatics and Artificial Intelligence
 - 🌱 I’m currently studying Python (Advanced concepts && Design Patterns), Django, Docker, Kubernetes && REST APIs
 - 💞️ I love my family & pets
